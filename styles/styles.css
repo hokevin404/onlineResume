@@ -1,6 +1,3 @@
-.body {
-}
-
 .dropDownContent {
     background-color: blueviolet;
     color: aqua;
@@ -12,3 +9,6 @@
     font-size: 2rem;
 }
 
+.main_container {
+    color: rgb(135, 135, 135);
+}
